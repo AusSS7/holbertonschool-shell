@@ -1,9 +1,0 @@
-#!/bin/bash
-# My first shell script
-
-current_dir=$(pwd)
-script_dir=$(./ "$0")
-
-echo $current_dir
-echo $script_dir
-
