@@ -1,5 +1,6 @@
-#it tells the terminal that when you run the script is should use bash to execute
+#Shebang, #! directs the program loader to load an enterpreter for the code in the file
+/bin/bash the Bash (Bourne again SHell) interpreter's location
 #!/bin/bash
 
 # it prints the absolute path name of the current directory and ends in new line
-# echo -e $(pwd)"\n"
+# echo $(pwd)
