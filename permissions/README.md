@@ -36,3 +36,6 @@
 # mkdir -m 751 my_dir
 
 # Task 13. Change group
+#chgrp school hello
+
+#Task 14. Owner and group
