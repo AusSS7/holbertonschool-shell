@@ -39,3 +39,4 @@
 #chgrp school hello
 
 #Task 14. Owner and group
+# chown -R vincent:staff ./
