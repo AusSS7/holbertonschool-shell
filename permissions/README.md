@@ -33,3 +33,6 @@
 # X : sets the executable permission on all subdirectories and any files with and executable permission.
 
 #Task 12. More directories
+# mkdir -m 751 my_dir
+
+# Task 13. Change group
