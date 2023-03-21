@@ -40,3 +40,9 @@
 
 #Task 14. Owner and group
 # chown -R vincent:staff ./
+
+#Task 15. Symbolic links
+# chown -h vincent:sfaff _hello
+
+#Task 16. If only
+#
