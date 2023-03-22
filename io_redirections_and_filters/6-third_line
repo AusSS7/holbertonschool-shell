@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(tail -n+3 iacta | head -1)"
+echo "$(head -3 iacta | tail -1)"
