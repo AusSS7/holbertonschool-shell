@@ -7,4 +7,5 @@
 # it will print or display "(Ôo)'
 
 # Task 2. Let's display a file
-#
+# echo "$(cat /etc/passwd)"
+# it will print or display the content of the file passwd in /etc directory
