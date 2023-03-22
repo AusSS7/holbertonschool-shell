@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(cat tail -n 10 /etc/passwd)"
+echo "$(cat tail /etc/passwd)"
