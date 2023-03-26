@@ -16,3 +16,14 @@
 
 # Task 4. Last lines of a file
 # echo "$(cat tail -n 10 /etc/passwd)"
+
+# Task 11. Don't just count your directories, make your directories count
+# find . -mindepth 1 -type d | wc -l
+# find -> finds directories and files on a filesystem
+# . -> it start searching from the current directory
+# -mindepth 1 -> it finds all directories and subdirectories except the current directory.
+#-type d -> it will only find directories and subdirectories (not included files)
+# wc -l -> it performs line count on the output of the find.
+
+# Task 12. What's new 
+#
